@@ -4,6 +4,6 @@ Alice has a restaurant and asks woody to dispose of the trash on thanksgiving da
 
 Alice? Alice? Where the feck is Alice?  Bob and Carol have spent the entire time gossiping about where the feck Alice went off to. Much speculation that she's been abducted by aliens.
 
-Ted: Alice? But Alice hasn't worked here in 30 years...
+Ted: Alice? But Alice hasn't worked here in 30 years... that's because she was abducted by ALIENS and they just returned her to Earth.  But Bob and Carol think they JUST SAW HER ... now all them speculate that not only are there aliens, but there's also been a rip in the space time continuum and time is now folding in on itself. 
 
 I'm tired of Alice not pulling her weight. She's lazy and incompetent and has been holding us back for years. I think if we get rid of her our team will really shine!! What do you think? Fire her?
