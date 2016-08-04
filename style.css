@@ -46,9 +46,37 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
 /*end of reset*/
 
 /*global styles*/
+body {
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+a {
+  text-decoration: none;
+}
+
 
 /*content styles*/
+header {
+  height: 80px;
+}
+
+.upper {
+  width: 960px;
+  background-color: grey;
+}
+
+.upper ul li {
+  display: inline-block;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+.seven_day_container ul li {
+  display: inline-block;
+}
