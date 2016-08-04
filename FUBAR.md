@@ -1,4 +1,6 @@
 
+I'm tired of Alice not pulling her weight. She's lazy and incompetent and has been holding us back for years. I think if we get rid of her our team will really shine!! What do you think? Fire her? 
+
 Alice has a restaurant and asks woody to dispose of the trash on thanksgiving day. They get arrested and almost go to vietnam. It was very eventful.
 
 Alice? Alice? Where the feck is Alice?  Bob and Carol have spent the entire time gossiping about where the feck Alice went off to. Much speculation that she's been abducted by aliens.
